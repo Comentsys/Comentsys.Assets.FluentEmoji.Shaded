@@ -5,7 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<LangVersion>10.0</LangVersion>
-		<Title>Asset Resource for Shaded Colour Fluent Emoji</Title>
+		<Title>Asset Resource for Colour Shaded Fluent Emoji</Title>
 		<Authors>Comentsys, Microsoft</Authors>
 		<Company>Comentsys</Company>
 		<Version>1.0.0</Version>
@@ -14,7 +14,7 @@
 			1.0.0 - Initial Release
 		</PackageReleaseNotes>
 		<PackageProjectUrl>https://github.com/Comentsys/Comentsys.Assets.FluentEmoji.Shaded</PackageProjectUrl>
-		<Description>Asset Resource for Shaded Colour Fluent Emoji</Description>
+		<Description>Asset Resource for Colour Shaded Fluent Emoji</Description>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/Comentsys/Comentsys.Assets.FluentEmoji.Shaded</RepositoryUrl>
