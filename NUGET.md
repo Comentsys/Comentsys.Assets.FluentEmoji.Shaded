@@ -16,6 +16,10 @@ Install-Package Comentsys.Assets.FluentEmoji.Shaded
 
 ## Change Log
 
+### Version 1.1.0
+
+- Update for Comentsys.Assets.FluentEmoji and Emoji Fixes
+
 ### Version 1.0.0
 
 - Initial Release
