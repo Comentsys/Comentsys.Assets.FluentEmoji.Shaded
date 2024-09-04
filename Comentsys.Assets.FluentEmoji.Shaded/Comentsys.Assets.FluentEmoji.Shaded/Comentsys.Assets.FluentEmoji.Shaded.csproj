@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
@@ -8,10 +8,11 @@
 		<Title>Asset Resource for Colour Shaded Fluent Emoji</Title>
 		<Authors>Comentsys, Microsoft</Authors>
 		<Company>Comentsys</Company>
-		<Version>1.0.0</Version>
+		<Version>1.1.0</Version>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageReleaseNotes>
 			1.0.0 - Initial Release
+			1.1.0 - Update for Comentsys.Assets.FluentEmoji and Emoji Fixes
 		</PackageReleaseNotes>
 		<PackageProjectUrl>https://github.com/Comentsys/Comentsys.Assets.FluentEmoji.Shaded</PackageProjectUrl>
 		<Description>Asset Resource for Colour Shaded Fluent Emoji</Description>
@@ -38,11 +39,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Comentsys.Assets.FluentEmoji" Version="1.0.0" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Folder Include="Resources\Shaded\" />
+		<PackageReference Include="Comentsys.Assets.FluentEmoji" Version="1.*" />
 	</ItemGroup>
 
 </Project>
