@@ -23,7 +23,7 @@ You can also supply an **Array** of **Colours** or a single **Colour** to custom
 
 ### Examples
 
-![Shaded Fluent Emoji](Assets/shadedfluentemoji.png)
+![Shaded Fluent Emoji](https://raw.githubusercontent.com/Comentsys/Comentsys.Assets.FluentEmoji.Shaded/refs/heads/main/Assets/shadedfluentemoji.png)
 
 ### Get(type, sources, targets)
 
